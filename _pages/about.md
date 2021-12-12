@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: Student
+description: He/Him
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>University of Washington</p>
-    <p>Seattle, WA</p>
+    <p>Me at Pete Lake, WA</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
