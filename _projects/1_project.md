@@ -2,7 +2,7 @@
 layout: page
 title: Finding shared phrases
 description: Using a suffix array to find common subsequences
-img: assets/img/SuffixArray.jpg
+img: assets/img/12.jpg
 importance: 1
 category: fun
 ---
