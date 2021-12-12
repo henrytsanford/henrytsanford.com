@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: He/Him
+description: (He/Him)
 
 profile:
   align: right
@@ -19,4 +19,4 @@ Hi! I am a student at the University of Washington studying Biology and Data Sci
 
 I spent last summer at UW Genome Sciences where I worked on a [tool for mass-spectrometer data analysis](https://skyline.ms/project/home/begin.view?). Next summer I am headed to New York to work in the data science department at [Regeneron](https://www.regeneron.com/)!
 
-In my free time, I enjoy going to concerts and binging sci-fi novels.
+In my free time, I enjoy going to local concerts and reading sci-fi novels.
