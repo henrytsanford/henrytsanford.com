@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Finding shared phrases
-description: Using a suffix array to find common subsequences
+title: Shared phrases
+description: What are the longest common phrases in classic books?
 img: assets/img/12.jpg
 importance: 1
 category: fun
 ---
 
-I used a [suffix array](https://en.wikipedia.org/wiki/Suffix_array) to find common phrases in classic books.
+I implemented a [suffix array](https://en.wikipedia.org/wiki/Suffix_array) and then used it to identify common phrases in some texts.
 
 Here are the results, sorted by length:
 
