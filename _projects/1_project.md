@@ -7,11 +7,10 @@ importance: 1
 category: fun
 ---
 
-I implemented a [suffix array](https://en.wikipedia.org/wiki/Suffix_array) and then used it to identify common phrases in some texts.
+I implemented a [suffix array](https://en.wikipedia.org/wiki/Suffix_array) and then used it to identify the longest common phrase between pairs of texts. I sourced the text files from [the Guttenberg Project](https://www.gutenberg.org/).
 
 Here are the results, sorted by length:
 
-    ---
     Anna Karenina + The Count of Monte Cristo : , the meaning of which he could not comprehend. A
     Anna Karenina + War and Peace : silent, and the only sound audible was the                                        
     Collected Papers on Analytical Psychology + War and Peace :  at the beginning of the nineteenthcentury                                       
@@ -106,4 +105,3 @@ Here are the results, sorted by length:
     King Lear + Mrs. Dalloway :  to his daughters
     Mrs. Dalloway + Poems of Emily Dickinson : r a hundred years
     Mrs. Dalloway + The Communist Manifesto :  had nothing to 
-    ---
