@@ -15,8 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a student at the University of Washington studying Biology and Data Science. 
+Hi! I am Henry Sanford. 
 
-I spent last summer at UW Genome Sciences where I worked on a [tool for mass-spectrometer data analysis](https://skyline.ms/project/home/begin.view?). Next summer I am headed to New York to work in the data science department at [Regeneron](https://www.regeneron.com/)!
-
-In my free time, I enjoy going to local concerts and reading sci-fi novels.
+My first internship was at UW Genome Sciences where I worked on a [tool for mass-spectrometer data analysis](https://skyline.ms/project/home/begin.view?). Next summer I headed to New York to work in the data science department at [Regeneron](https://www.regeneron.com/). I currently work in UW Biology and am looking for new roles.
